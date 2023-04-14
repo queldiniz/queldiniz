@@ -1,4 +1,4 @@
-# Olá, pessoal😁👩‍💻
+# Olá, pessoal <img src="cartoon.png" height="110" width="110">
 <br>
 
 ## Sou a Raquel Diniz, seja bem-vindo(a/e) ao meu GitHub 💖
