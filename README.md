@@ -7,7 +7,7 @@
 ##
  <div align="center"> 
  
- <h2>Tecnologias & Conhecimentos:</h2>
+ <h2>Hard Skills:</h2>
  
  </div> 
 <div style="display: inline_block" align="center">
