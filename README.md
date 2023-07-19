@@ -3,7 +3,7 @@
 ## Sou a Raquel Diniz, seja bem-vindo(a/e) ao meu GitHub 💖
 #### 🛠️Desenvolvendo projetos pessoais
 #### 💻Cursando o 4º semestre de ADS na Fatec Carapicuíba
-#### 📚Atualmente estou estudando Python e React.js
+#### 📚Atualmente estou estudando Python
 ##
  <div align="center"> 
  
