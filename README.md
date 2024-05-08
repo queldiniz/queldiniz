@@ -1,6 +1,6 @@
 # Olá, pessoal <img src="cartoon.png" height="110" width="110">
 
-## Sou a Raquel Diniz, seja bem-vindo(a/e) ao meu GitHub 💖
+## Sou a Raquel Diniz, seja bem-vindx ao meu GitHub 💖
 #### 🛠️Desenvolvendo projetos pessoais
 #### 💻Cursando o 6º semestre de ADS na Fatec Carapicuíba
 
