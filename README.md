@@ -1,9 +1,9 @@
-# Olá, pessoal <img src="cartoon.png" height="110" width="110">
+# Olá, pessoal <img src="cartoon.png" height="50" width="50">
 
 ## Sou a Raquel Diniz, seja bem-vindx ao meu GitHub 💖
-#### 🛠️ Projeto de Conclusão de Curso https://geisianealves.github.io/FourLanguage/
+#### Projeto de Conclusão de Curso https://geisianealves.github.io/FourLanguage/
 #### 💻Formada em Análise e Desenvolvimento de Sistemas
-#### Atualmente estudando Python e AWS pelo portal da Hashtag Treinamentos
+#### 🛠️ Atualmente estudando Python e AWS pelo portal da Hashtag Treinamentos
 
 ##
  <div align="center"> 
@@ -14,7 +14,6 @@
 <div style="display: inline_block" align="center">
   <img align="center" alt="Java" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
