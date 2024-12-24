@@ -1,8 +1,8 @@
 # Olá, pessoal <img src="cartoon.png" height="110" width="110">
 
 ## Sou a Raquel Diniz, seja bem-vindx ao meu GitHub 💖
-#### 🛠️Desenvolvendo projeto de conclusão de curso em conjunto: https://geisianealves.github.io/FourLanguage/
-#### 💻Cursando o 6º semestre de ADS na Fatec Carapicuíba
+#### 🛠️ Projeto de Conclusão de Curso https://geisianealves.github.io/FourLanguage/
+#### 💻Formada em Análise e Desenvolvimento de Sistemas
 
 ##
  <div align="center"> 
