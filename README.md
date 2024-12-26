@@ -26,8 +26,8 @@
 
 <div align="center">
 
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=queldiniz&show_icons=true&theme=omni&hide=stars,issues&count_public=true)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=queldiniz&hide=html&layout=compact&langs_count=8&show_icons=true&theme=omni)](https://github.com/queldiniz/github-readme-stats)                   
+   <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=queldiniz&show_icons=true&theme=omni&hide=stars&show=issues&count_public=true) -->
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=queldiniz&hide=html&show=jupyternotebooklayout=compact&langs_count=8&show_icons=true&theme=omni)](https://github.com/queldiniz/github-readme-stats)                   
 </div>
 
 ##
