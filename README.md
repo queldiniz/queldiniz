@@ -2,8 +2,7 @@
 
 ## Sou a Raquel Diniz, seja bem-vindx ao meu GitHub 💖
 #### Projeto de Conclusão de Curso https://geisianealves.github.io/FourLanguage/
-#### 💻Formada em Análise e Desenvolvimento de Sistemas
-#### 🛠️ Atualmente estudando Python e AWS pelo portal da Hashtag Treinamentos
+
 
 ##
  <div align="center"> 
